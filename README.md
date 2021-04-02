@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI and some Apple frameworks**
 
-- 💡 Currently participating in the [2021 Swift Student Challenge](https://github.com/persello/ssc21)
+- 💡 Also participating in the [2021 Swift Student Challenge](https://github.com/persello/ssc21)
 
 - 📫 How to reach me **riccardo.persello@icloud.com**
 
