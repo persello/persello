@@ -1,16 +1,36 @@
-<h1 align="center">Hello, I'm Riccardo</h1>
-<h3 align="center">An EE student who does iOS, macOS and embedded development</h3>
+# Hello, I'm Riccardo
+![Counter](https://shields-io-visitor-counter.herokuapp.com/badge?page=persello.persello&label=Profile%20Views&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/persello?color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=persello&label=Profile%20views&color=0e75b6&style=plastic" alt="persello" /> </p>
+---
+- 🔋 I study Electronics Engineering and I do many embedded development projects. As a hobby, I started developing for Apple platforms.
+- 🧑🏻‍💻 I’m currently working on [Norminal](https://github.com/persello/norminal). Try it on [TestFlight](https://testflight.apple.com/join/CirlA6HB) (iPhone/iPad).
 
-- 🔭 I’m currently working on [Norminal](https://github.com/persello/norminal)
+- 📚 I’m currently learning **Swift, SwiftUI and some Apple frameworks**.
 
-- 🌱 I’m currently learning **Swift, SwiftUI and some Apple frameworks**
+- 💡 I participated in the [2021 Swift Student Challenge](https://github.com/persello/ssc21) (*awaiting the results*).
 
-- 💡 Participated in the [2021 Swift Student Challenge](https://github.com/persello/ssc21) (*awaiting the results*)
+- 📨 How to reach me: **riccardo.persello@icloud.com**.
 
-- 📫 How to reach me **riccardo.persello@icloud.com**
+### Favorite languages:
 
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Micropython](https://img.shields.io/badge/-Micropython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### Embedded platforms:
+
+![ESP-IDF](https://img.shields.io/badge/-Espressif%20IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### IDEs:
+
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Operating systems:
+
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![Fedora](https://img.shields.io/badge/-fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
