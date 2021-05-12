@@ -7,7 +7,7 @@
 - 🔋 I study Electronics Engineering and I do many embedded development projects. As a hobby, I started developing for Apple platforms.
 - 🧑🏻‍💻 I’m currently working on [Norminal](https://github.com/persello/norminal). Try it on [TestFlight](https://testflight.apple.com/join/CirlA6HB) (iPhone/iPad). I'm also building my new [website](https://persello.tk).
 
-- 📚 I’m currently learning **Swift, SwiftUI and some Apple frameworks**.
+- 📚 I’m currently learning **Swift**, **SwiftUI** and other Apple frameworks. Also trying some web technologies such as **React**, **Next.js** and **Typescript**.
 
 - 💡 I participated in the [2021 Swift Student Challenge](https://github.com/persello/ssc21) (*awaiting the results*).
 
