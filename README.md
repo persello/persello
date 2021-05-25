@@ -1,11 +1,26 @@
-# Hello, I'm Riccardo
+# Hello, I'm Riccardo.
 ![Counter](https://shields-io-visitor-counter.herokuapp.com/badge?page=persello.persello&label=Profile%20Views&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/persello?color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 
 ---
+
+# Hello, Norminal.
+# <a href="https://apps.apple.com/us/app/norminal/id1540171547?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1621814400&h=246ab0e90ce211ebd0361af4b0f3aed8" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
+
+The first version of Norminal is ready and on the App Store.
+
+![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPad/App%20Store/01.png)
+|                                                      |                                                      |                                                      |                                                      |
+| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+| ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/11.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/12.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/13.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/14.png) |
+|                                                      |                                                      |                                                      |                                                      |
+| ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/15.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/16.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/17.png) | ![](https://github.com/persello/norminal/blob/main/Resources/Screenshots/iPhone/App%20Store/18.png) |
+
+---
+
 - 🔋 I study Electronics Engineering and I do many embedded development projects. As a hobby, I started developing for Apple platforms.
-- 🧑🏻‍💻 I’m currently working on [Norminal](https://github.com/persello/norminal). Try it on [TestFlight](https://testflight.apple.com/join/CirlA6HB) (iPhone/iPad). I'm also building my new [website](https://persello.tk).
+- 🧑🏻‍💻 I’m currently working on [Norminal](https://github.com/persello/norminal). I'm also building my new [website](https://persello.tk).
 
 - 📚 I’m currently learning **Swift**, **SwiftUI** and other Apple frameworks. Also trying some web technologies such as **React**, **Next.js** and **Typescript**.
 
