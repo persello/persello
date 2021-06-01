@@ -24,7 +24,7 @@ The first version of Norminal is ready and on the App Store.
 
 - 📚 I’m currently learning **Swift**, **SwiftUI** and other Apple frameworks. Also trying some web technologies such as **React**, **Next.js** and **Typescript**.
 
-- 💡 I participated in the [2021 Swift Student Challenge](https://github.com/persello/ssc21) (*awaiting the results*).
+- 💡 WWDC 2021 Scholar ([2021 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc21)).
 
 - 📨 How to reach me: **riccardo.persello@icloud.com**.
 
