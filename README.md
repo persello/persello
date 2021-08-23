@@ -5,7 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 
 - 🔋 I study Electronics Engineering and I do many embedded development projects. As a hobby, I started developing for Apple platforms.
-- 
+
 - 🧑🏻‍💻 I’m currently working on a node-graph based synthesizer and on **the Dandelion Project**. I'm also building my new [website](https://persello.tk).
 
 - 📚 I’m currently learning **UIKit**. Also trying some web technologies such as **Svelte**, **React** and some CSS libraries.
