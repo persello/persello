@@ -5,9 +5,10 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 
 - 🔋 I study Electronics Engineering and I do many embedded development projects. As a hobby, I started developing for Apple platforms.
-- 🧑🏻‍💻 I’m currently working on [Norminal](https://github.com/persello/norminal). I'm also building my new [website](https://persello.tk).
+- 
+- 🧑🏻‍💻 I’m currently working on a node-graph based synthesizer and on **the Dandelion Project**. I'm also building my new [website](https://persello.tk).
 
-- 📚 I’m currently learning **Swift**, **SwiftUI** and other Apple frameworks. Also trying some web technologies such as **React**, **Next.js** and **Typescript**.
+- 📚 I’m currently learning **UIKit**. Also trying some web technologies such as **Svelte**, **React** and some CSS libraries.
 
 - 💡 2021 **WWDC Scholar** ([2021 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc21)).
 
