@@ -1,5 +1,6 @@
 # Hello, I'm Riccardo.
 ![WWDC Scholar](https://img.shields.io/badge/-2021%20WWDC%20Scholar-000000?style=for-the-badge&logo=apple&logoColor=white)
+![WWDC Scholar](https://img.shields.io/badge/-2022%20WWDC%20Scholar-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Counter](https://shields-io-visitor-counter.herokuapp.com/badge?page=persello.persello&label=Profile%20Views&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/persello?color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
