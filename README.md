@@ -13,12 +13,14 @@
 
 - 💡 2021 **WWDC Scholar** ([2021 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc21)).
 
+- 💡 2022 **WWDC Scholar** ([2022 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc22)).
+
 ### Languages
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Embedded platforms
 
