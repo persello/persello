@@ -9,7 +9,7 @@
 
 - 💡 2021 **WWDC Scholar** ([CircuitKit](https://github.com/persello/ssc21)).
 
-- 💡 2022 **WWDC Scholar** ([Datawave.](https://github.com/persello/ssc22)).
+- 💡 2022 **WWDC Scholar** ([datawave.](https://github.com/persello/ssc22)).
 
 ### Languages
 
