@@ -7,9 +7,9 @@
 
 - 🔋 EE Student. Firmware developer in [UniUD e-Racing Team](https://formulasae.uniud.it). Also building [pulse.loop](https://github.com/pulse-loop).
 
-- 💡 2021 **WWDC Scholar** ([2021 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc21)).
+- 💡 2021 **WWDC Scholar** ([2021 Swift Student Challenge](https://github.com/persello/ssc21)).
 
-- 💡 2022 **WWDC Scholar** ([2022 Swift Student Challenge - ACCEPTED](https://github.com/persello/ssc22)).
+- 💡 2022 **WWDC Scholar** ([2022 Swift Student Challenge](https://github.com/persello/ssc22)).
 
 ### Languages
 
