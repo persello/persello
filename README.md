@@ -3,7 +3,9 @@
 ![WWDC Scholar](https://img.shields.io/badge/-2022%20WWDC%20Scholar-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![GitHub User's stars](https://img.shields.io/github/stars/persello?affiliations=OWNER&color=1D70B8&labelColor=000000&logo=github&style=for-the-badge)
 
-- 🔋 EE Student. Firmware developer in [UniUD e-Racing Team](https://formulasae.uniud.it). Also building [pulse.loop](https://github.com/pulse-loop).
+- 🧑🏻‍💻 AI student @ JKU Linz.
+
+- 🔋 Former firmware developer / head of electronics in [UniUD e-Racing Team](https://formulasae.uniud.it).
 
 - 💡 2021 **WWDC Scholar** ([CircuitKit](https://github.com/persello/ssc21)).
 
