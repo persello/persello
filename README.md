@@ -7,10 +7,6 @@
 
 - 🔋 Technical Lead at [JKU Racing](https://jkuracing.at).
 
-- 💡 2021 **WWDC Scholar** ([CircuitKit](https://github.com/persello/ssc21)).
-
-- 💡 2022 **WWDC Scholar** ([datawave.](https://github.com/persello/ssc22)).
-
 ### Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
